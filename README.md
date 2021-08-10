@@ -1,5 +1,5 @@
 # RhoPollard
-This code is a python algorithm using Pollard's Rho method to find collision in any hash function. Moreover it uses the ![Floyd's cycle-finding algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare) to optimize the search. A whole study had been conducted by myself in 2021 : ![See the paper](https://devnathan.github.io) (free and in french 🇫🇷)🇷
+This code is a python algorithm using Pollard's Rho method to find collision in any hash function. Moreover it uses the [Floyd's cycle-finding algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare) to optimize the search. A whole study had been conducted by myself in 2021 : [See the paper](https://devnathan.github.io) (free and in french 🇫🇷)
 
 
 #### Contributor(s) : [@DevNathan](https://github.com/DevNathan) (Nathan Stchepinsky)
@@ -74,7 +74,8 @@ Hash( c9c3d4c63b ) =  62aab29a02
 #### Computing time 
 *Executed on a Macbook Pro 2019 Intel Core i5 (1,4 GHz and 4 cores) *
 
-20C_2to12_labeled.png![image](https://user-images.githubusercontent.com/42048771/128858478-d83d6b3a-08f5-45a7-8c01-a2893f0a763a.png)
+![image](https://user-images.githubusercontent.com/42048771/128873710-0be344ba-e39c-49a8-bc2c-2dac774cedf6.png)
+
 
 
 
